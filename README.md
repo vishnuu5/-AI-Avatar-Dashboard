@@ -19,6 +19,9 @@ A responsive React application that displays AI-generated avatars with a clean, 
 - Tailwind CSS - Utility-first CSS framework
 - Reqres API - For fetching dummy user data
 
+## Deployent 
+
+Click => [Click](https://ai-avatar-dashboard-ruby.vercel.app)
 ## Installation
 
 1. Clone the repository:
